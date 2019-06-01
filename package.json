@@ -1,0 +1,19 @@
+{
+  "name": "dialogflow-payload",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puuga/Dialogflow-Payload.git"
+  },
+  "author": "Siwawes Wongcharoen (siwaoh@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puuga/Dialogflow-Payload/issues"
+  },
+  "homepage": "https://github.com/puuga/Dialogflow-Payload#readme"
+}
